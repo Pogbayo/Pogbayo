@@ -4,7 +4,7 @@ Welcome to my GitHub! I’m a **FrontEnd Engineer** with a strong foundation in 
 
 ## 🚀 About Me  
 - *Frontend Development:*  
-   - Designing and building interactive, responsive web applications using **React**, **JavaScript**, and **CSS**.  
+   - Designing and building interactive, responsive web applications using **React**, **Tyepscript**, and **NextJs**.  
 
 - *IT Support Expertise:*  
    - Hands-on experience troubleshooting Microsoft 365 environments.  

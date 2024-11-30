@@ -33,5 +33,5 @@ Welcome to my GitHub! I’m a **FrontEnd Engineer** with a strong foundation in 
 - Design end-to-end solutions that improve efficiency and user experience.  
 
 ## 📫 Let’s Connect!  
-- *LinkedIn:* [Connect with me](http//:www.linkedin.com/in/adebayooluwasegun)  
+- *LinkedIn:* [Connect with me](https://www.linkedin.com/in/adebayooluwasegun)  
 - *Email:*  adebayooluwasegun335@gmail.com
